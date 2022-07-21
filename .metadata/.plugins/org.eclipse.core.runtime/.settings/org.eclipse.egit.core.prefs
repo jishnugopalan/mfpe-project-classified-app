@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\Admin\\Desktop\\mfpe localhost\\PointsMicroservice\\.git;C\:\\Users\\Admin\\Desktop\\mfpe localhost\\offer-microservice\\.git;C\:\\Users\\Admin\\Desktop\\mfpe localhost\\employee-microservice\\.git;C\:\\Users\\Admin\\Desktop\\mfpe localhost\\authmicroservice\\.git;
+GitRepositoriesView.GitDirectories.relative=PointsMicroservice\\.git;offer-microservice\\.git;employee-microservice\\.git;authmicroservice\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
